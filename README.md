@@ -1,1 +1,1 @@
-* Using Jest to test function
+# Practicing using Jest to test functions, which is essential for Test Driven Development.
